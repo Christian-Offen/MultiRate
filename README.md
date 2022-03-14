@@ -8,3 +8,10 @@ Julia implementation of the multirate integration scheme used in the numerical e
 	https://doi.org/10.1007/978-94-007-5404-1_5
 
 An application to the Fermi-Pasta-Ulam-Tsingou problem can be found in the Jupyter notebook file.
+
+
+---------------------
+julia version 1.7.0
+using packages
+NLsolve v4.5.1
+Flux v0.12.9
